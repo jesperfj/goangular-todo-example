@@ -1,0 +1,9 @@
+{
+  "name": "Goangular Todo Example",
+  "description": "TODO: Add a short description about Goangular Todo Example",
+  "keywords": [
+    "goinstant angular node.js"
+  ],
+  "addons": [ "goinstant" ],
+  "env": {}
+}
